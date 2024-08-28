@@ -1,0 +1,9 @@
+[package]
+name = "find-py"
+version = "0.1.0"
+edition = "2021"
+resolver = "2"
+
+[dependencies]
+walkdir = "2.3.2"
+
