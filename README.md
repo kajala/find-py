@@ -12,10 +12,10 @@ This is a test project writing software in a new (to me) language without readin
 Install
 -------
 
-make
+        make
 
 
 Run
 ---
 
-find-py <text to search>
+        find-py (text to search)
