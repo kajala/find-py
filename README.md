@@ -21,3 +21,8 @@ Run
 ---
 
         find-py (text to search)
+
+        Options:
+    
+            --include-site-packages
+
